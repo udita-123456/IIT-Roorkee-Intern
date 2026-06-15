@@ -63,9 +63,8 @@ string = input("Enter a string: ")
 unique_chars =sorted(set(string))
 print("Unique characters are:",unique_chars)
 
-
-
 #or
+
 string = input("Enter a string: ")
 unique_chars =sorted(set(string))
 print("Unique characters are:")
